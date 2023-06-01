@@ -1,2 +1,2 @@
 # wpdaveportfolio
-Website portfolio InfinityFree.net - https://bit.ly/davePortfolio 
+Personal Website portfolio - https://bit.ly/davePortfolio 
